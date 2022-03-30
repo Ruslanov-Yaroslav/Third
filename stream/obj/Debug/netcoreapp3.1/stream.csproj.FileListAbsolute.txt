@@ -1,0 +1,28 @@
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\bin\Debug\netcoreapp3.1\stream.exe
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\bin\Debug\netcoreapp3.1\stream.deps.json
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\bin\Debug\netcoreapp3.1\stream.runtimeconfig.json
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\bin\Debug\netcoreapp3.1\stream.runtimeconfig.dev.json
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\bin\Debug\netcoreapp3.1\stream.dll
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\bin\Debug\netcoreapp3.1\stream.pdb
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\obj\Debug\netcoreapp3.1\stream.csproj.AssemblyReference.cache
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\obj\Debug\netcoreapp3.1\stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\obj\Debug\netcoreapp3.1\stream.AssemblyInfoInputs.cache
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\obj\Debug\netcoreapp3.1\stream.AssemblyInfo.cs
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\obj\Debug\netcoreapp3.1\stream.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\obj\Debug\netcoreapp3.1\stream.dll
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\obj\Debug\netcoreapp3.1\stream.pdb
+C:\Users\Yarik\OneDrive\Рабочий стол\streams\stream\stream\obj\Debug\netcoreapp3.1\stream.genruntimeconfig.cache
+C:\Main\gener\stream\stream\obj\Debug\netcoreapp3.1\stream.csproj.AssemblyReference.cache
+C:\Main\gener\stream\stream\obj\Debug\netcoreapp3.1\stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\gener\stream\stream\obj\Debug\netcoreapp3.1\stream.AssemblyInfoInputs.cache
+C:\Main\gener\stream\stream\obj\Debug\netcoreapp3.1\stream.AssemblyInfo.cs
+C:\Main\gener\stream\stream\obj\Debug\netcoreapp3.1\stream.csproj.CoreCompileInputs.cache
+C:\Main\gener\stream\stream\obj\Debug\netcoreapp3.1\stream.dll
+C:\Main\gener\stream\stream\obj\Debug\netcoreapp3.1\stream.pdb
+C:\Main\gener\stream\stream\bin\Debug\netcoreapp3.1\stream.exe
+C:\Main\gener\stream\stream\bin\Debug\netcoreapp3.1\stream.deps.json
+C:\Main\gener\stream\stream\bin\Debug\netcoreapp3.1\stream.runtimeconfig.json
+C:\Main\gener\stream\stream\bin\Debug\netcoreapp3.1\stream.runtimeconfig.dev.json
+C:\Main\gener\stream\stream\bin\Debug\netcoreapp3.1\stream.dll
+C:\Main\gener\stream\stream\bin\Debug\netcoreapp3.1\stream.pdb
+C:\Main\gener\stream\stream\obj\Debug\netcoreapp3.1\stream.genruntimeconfig.cache
